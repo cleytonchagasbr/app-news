@@ -1,0 +1,17 @@
+{
+  "name": "app-news",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/backend/service.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "latest",
+    "cheerio": "latest"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
