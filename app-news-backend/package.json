@@ -7,7 +7,7 @@
     "dev": "nodemon src/backend/service.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "request": "latest",
     "cheerio": "latest"
   },
